@@ -1,0 +1,40 @@
+
+
+.container{
+  border: 1px solid black;
+  text-align: center;
+  margin: 25% auto;
+  padding: 25px;
+
+
+}
+h1{
+  padding-bottom: 50px;
+}
+p{
+  font-size: 12px !important;
+}
+
+.img-background{
+  background-image: url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/star-trek-q-1-1617653781.jpg');
+  max-height: 200px;
+  min-height: 200px;
+  margin: 0 auto;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  line-height: 200px;
+
+
+
+}
+
+h2{
+  color: white;
+  vertical-align: bottom;
+
+
+}
+.hide{
+  display:none;
+}
